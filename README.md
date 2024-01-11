@@ -1,4 +1,4 @@
-**Netflix vs. Youtube: A Data Showdown**
+# Netflix vs. Youtube: A Data Showdown
 
 This Tableau project dives into the data to compare the two streaming giants, Netflix and YouTube. We'll explore their revenue, users, and other key metrics to see who comes out on top.
 
